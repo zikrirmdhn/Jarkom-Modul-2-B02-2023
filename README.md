@@ -11,5 +11,6 @@
 
 Berikut adalah topologi nomor 6 :
 
-![Topotopologilogi](https://github.com/zikrirmdhn/Jarkom-Modul-2-B02-2023/assets/97161145/e006a942-cc62-489b-b160-d83cb5567661)
+![Topotopologilogilogi](https://github.com/zikrirmdhn/Jarkom-Modul-2-B02-2023/assets/97161145/83d8b708-f072-4318-9d82-8042b9ffea49)
+
 
