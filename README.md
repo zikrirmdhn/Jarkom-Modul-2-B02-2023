@@ -23,12 +23,20 @@ Kami memiliki kode B02, maka website utama pada node arjuna menjadi arjuna.B02.c
 Sama dengan nomor 2, kita akan membuat abimanyu.B02.com dan www.abimanyu.B02.com
 
 ## Soal 4
+karena terdapat beberapa web yang harus di-deploy, buatlah subdomain parikesit.abimanyu.yyy.com yang diatur DNS-nya di Yudhistira dan mengarah ke Abimanyu.
+
+subdomainnya adalah parikesit.abimanyu.B02.com
 
 ## Soal 5
+Buat juga reverse domain untuk domain utama
 
 ## Soal 6
+Agar dapat tetap dihubungi ketika DNS Server Yudhistira bermasalah, buat juga Werkudara sebagai DNS Slave untuk domain utama.
 
 ## Soal 7
+Seperti yang kita tahu karena banyak sekali informasi yang harus diterima, buatlah subdomain khusus untuk perang yaitu baratayuda.abimanyu.yyy.com dengan alias www.baratayuda.abimanyu.yyy.com yang didelegasikan dari Yudhistira ke Werkudara dengan IP menuju ke Abimanyu dalam folder Baratayuda
+
+Sama seperti sebelumnya, subdomain ini menjadi baratayuda.abimanyu.B02.com dengan alias www.baratayuda.abimanyu.B02.com
 
 ## Soal 8
 
